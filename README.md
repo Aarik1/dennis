@@ -24,3 +24,5 @@ Congrats you have successfully compiled Dennis!
 ## Credits
 
 Dectalk
+
+https://github.com/AntumDeluge/bin2header
